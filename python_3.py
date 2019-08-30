@@ -12,7 +12,7 @@ if key == "appel":
 for key in fruit:
     print(key)
 
-print("lol")
+print("loll")
 
 
 
